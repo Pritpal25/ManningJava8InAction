@@ -1,0 +1,1 @@
+# ManningJava8InAction
